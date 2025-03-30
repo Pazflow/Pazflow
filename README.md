@@ -1,7 +1,10 @@
 # 💫 About Me:
 🚀 I'm currently working on university projects and personal fun projects to improve my skills and learn new things. 🎓💡
+
 📚 Right now, I'm learning: C#, C, Python, JavaScript, and diving into game development. 🎮✨
+
 🔐 I'm really interested in cybersecurity and trying to motivate myself to learn more about it. 🛡️💻
+
 💬 Ask me anything about networking essentials and cybersecurity—I’d love to chat! 🌍🔍
 
 ## 🌐 Socials:
