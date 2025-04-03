@@ -5,7 +5,6 @@
 
 🔐 I'm really interested in cybersecurity and trying to motivate myself to learn more about it. 🛡️💻
 
-💬 Ask me anything about networking essentials and cybersecurity—I’d love to chat! 🌍🔍
 
 ## 🌐 Socials:
 [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@@pazflow-dev) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:pazflow21@gmail.com) 
